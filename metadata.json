@@ -1,0 +1,6 @@
+{
+  "name": "MarketingPilot AI",
+  "description": "Executive Campaign Intelligence, Channel Attribution, & Revenue Forecasting Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
